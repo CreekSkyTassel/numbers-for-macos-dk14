@@ -1,4 +1,4 @@
-
+Enhance Excel for macOS with elite Excel for macOS Module | formula-editor + pivot-tables, the #1 module. Includes formula-editor and pivot-tables for a smoother and more
 
 
 
